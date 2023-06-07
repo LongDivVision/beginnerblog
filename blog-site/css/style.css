@@ -1,0 +1,28 @@
+body {
+    background-color: #FFF;
+    color: #555555;
+    font-size: 21px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  #ff884d;
+}
+
+img {
+    width: 500px;
+}
+
+div {
+    background: pink;
+    width: 800px;
+    margin-top: 18px;
+}
+
+span {
+    color: navy;
+    font-size: 30px;
+    font-weight: bold;
+}
